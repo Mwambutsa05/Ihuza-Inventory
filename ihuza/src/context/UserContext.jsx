@@ -34,7 +34,7 @@ export const UserProvider = ({ children }) => {
         {
           id: '2',
           name: 'John Doe',
-          email: 'john@example.com',
+          email: 'mwambutsadaryce@gmail.com',
           password: 'user123',
           role: 'user',
           status: 'Active',
